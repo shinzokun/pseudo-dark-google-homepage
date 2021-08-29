@@ -1,0 +1,17 @@
+/* Variables */
+:root {
+  --OpenSans: "Open Sans";
+}
+/* Main Styling */
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  border: 0%;
+}
+img.Image-tag {
+  width: 30px;
+}
+img.Profile-tag {
+  width: 40px;
+}

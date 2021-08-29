@@ -1,0 +1,14 @@
+img.Google-logo {
+  width: 500px;
+}
+img.Search-bar-tag {
+  width: 25px;
+}
+input.Input-tag {
+  width: 40rem;
+}
+input.Input-tag::placeholder {
+  color: black;
+  font-family: "Open Sans";
+  font-size: 15px;
+}
